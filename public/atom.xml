@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Hugo 主题 MemE</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2024-11-26T01:24:37&#43;08:00</updated>
+    <updated>2024-11-26T20:13:54&#43;08:00</updated>
     <id>http://localhost:1313/</id>
     <link rel="alternate" type="text/html" href="http://localhost:1313/" />
     <link rel="self" type="application/atom&#43;xml" href="http://localhost:1313/atom.xml" />
@@ -16,6 +16,36 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.139.2">Hugo</generator>
+        <entry>
+            <title type="text">能成功吗kokolan？</title>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/posts/%E8%83%BD%E6%88%90%E5%8A%9F%E5%90%97/" />
+            <id>http://localhost:1313/posts/%E8%83%BD%E6%88%90%E5%8A%9F%E5%90%97/</id>
+            <updated>2024-11-26T01:39:18&#43;08:00</updated>
+            <published>2024-11-26T01:30:51&#43;08:00</published>
+            <author>
+                    <name>reuixiy</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>reuixiy@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">&lt;p&gt;求你了一次性成功吧！！！！
+更新段落 字体颜色都不用设置吗？更新到哪里去了呀&lt;/p&gt;</summary>
+            
+                <content type="html">&lt;p&gt;求你了一次性成功吧！！！！
+更新段落 字体颜色都不用设置吗？更新到哪里去了呀&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">new</title>
             <link rel="alternate" type="text/html" href="http://localhost:1313/posts/new/" />
